@@ -73,7 +73,7 @@ const Hero = () => {
         <motion.p
           className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
           variants={bodyAnimation}>
-          Let's Talk
+         <> Let&apos;s Talk</>
         </motion.p>
       </Link>
 
