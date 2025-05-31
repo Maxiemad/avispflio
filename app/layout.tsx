@@ -11,43 +11,40 @@ const syne = Syne({
 });
 
 export const metadata: Metadata = {
-  title: "Avi Sharma — Frontend Engineer",
+  title: "Avi Sharma",
   description:
-    "Frontend Engineer and Web Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
+    "Founder of J Curve by Avi — a results-driven organic marketing agency for premium brands.",
   generator: "Next.js",
   applicationName: "Avi Sharma",
   keywords: [
     "freelance",
     "developer",
-    "freelance developer",
-    "frontend",
+    "marketer",
     "react",
-    "frontend developer",
-    "frontend engineer",
+    "marketer",
+    "j curve",
     "creative",
-    "creative developer",
-    "creative engineer",
+    "marketer",
+    "engineer",
     "tech",
-    "nigeria",
+    "india",
     "software",
     "software developer",
     "portfolio",
-    "frontend developer portfolio",
-    "creative developer portfolio",
+    "portfolio",
+    "portfolio",
   ],
   colorScheme: "dark",
   openGraph: {
     title: "Avi Sharma",
     description:
       "Content that Converts. Growth that Sticks.",
-    url: "https://www.victorwilliams.me/",
-    siteName: "www.victorwilliams.me",
     images: [
       {
-        url: "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
+        url: "https://raw.githubusercontent.com/Maxiemad/avispflio/main/11.png",
         width: 1200,
         height: 630,
-        alt: "Avi Sharma — Frontend Engineer",
+        alt: "Avi Sharma",
       },
     ],
     locale: "en-US",
@@ -55,13 +52,13 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Avi Sharma — Frontend Engineer",
+    title: "Avi Sharma",
     description:
-      "Frontend Engineer and Web Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
-    creator: "victorwill__",
-    creatorId: "1243720976552144897",
+      "Founder of J Curve by Avi — a results-driven organic marketing agency for premium brands",
+    creator: "Avi Sharma",
+    creatorId: "",
     images: [
-      "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
+      "https://raw.githubusercontent.com/Maxiemad/avispflio/main/11.png",
     ],
   },
   robots: {
