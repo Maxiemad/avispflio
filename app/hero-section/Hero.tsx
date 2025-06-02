@@ -23,7 +23,7 @@ const Hero = () => {
               className="hidden rounded-md border-2 border-[#e4ded7] py-2 px-4 text-[14px] font-semibold text-[#e4ded7] sm:block  md:text-[16px] lg:block"
               variants={bodyAnimation}
             >
-              J Curve by Avi Sharma
+              J Curve by Avi
             </motion.button>
           
         </div>
@@ -71,7 +71,7 @@ const Hero = () => {
         target="_blank"
         aria-label="Send Email">
         <motion.p
-          className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
+          className="rounded-md border-2 border-[#e4ded7] py-2 px-4 text-[14px] font-semibold text-[#e4ded7] sm:block md:text-[16px] lg:block"
           variants={bodyAnimation}>
          <> Let&apos;s Talk</>
         </motion.p>
